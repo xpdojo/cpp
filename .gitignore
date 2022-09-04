@@ -1,0 +1,16 @@
+# CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Build
+build/
+*.exe
+
+# JetBrains CLion
+.idea/
+
+#Visual Studio Code
+.vscode/
